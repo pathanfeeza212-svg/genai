@@ -1,1 +1,1 @@
-# genai
+# MCQ generator
